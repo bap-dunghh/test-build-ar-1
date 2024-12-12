@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c6830bd.css",
+    "main.js": "/static/js/main.4c250986.js",
+    "static/media/item_02.glb": "/static/media/item_02.cd78e20a034dbe2e9002.glb",
+    "static/media/item_03.glb": "/static/media/item_03.74af8f9f8d997fbc86f6.glb",
+    "static/media/item_04.glb": "/static/media/item_04.f6c96412d5741c155912.glb",
+    "static/media/item_05.glb": "/static/media/item_05.f6c96412d5741c155912.glb",
+    "static/media/item_01.glb": "/static/media/item_01.5586b5b51fa4fcca7e4d.glb",
+    "static/media/item_02.usdz": "/static/media/item_02.ce45eb820d75e860fcdb.usdz",
+    "static/media/item_01.usdz": "/static/media/item_01.c4106a404a7deb7dba0e.usdz",
+    "static/media/item_04.usdz": "/static/media/item_04.2a42a6a2de871ef36b30.usdz",
+    "static/media/item_05.usdz": "/static/media/item_05.2a42a6a2de871ef36b30.usdz",
+    "static/media/item_03.usdz": "/static/media/item_03.31aaa19a950287f42ae6.usdz",
+    "static/media/item_02.png": "/static/media/item_02.3939f6d0131cf484ed53.png",
+    "static/media/item_01.png": "/static/media/item_01.a46d72834e6be45e38e8.png",
+    "static/media/item_03.png": "/static/media/item_03.488a7a1437bffd10ce5d.png",
+    "static/media/item_04.png": "/static/media/item_04.da5e7067a3cfe6481651.png",
+    "static/media/item_05.png": "/static/media/item_05.da5e7067a3cfe6481651.png",
+    "static/media/qr_test_01.png": "/static/media/qr_test_01.89470a0d347597bf8fba.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4c6830bd.css",
+    "static/js/main.4c250986.js"
+  ]
+}
